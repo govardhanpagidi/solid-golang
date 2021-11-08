@@ -1,0 +1,1 @@
+## SRP folder implements single responsibility priciple
